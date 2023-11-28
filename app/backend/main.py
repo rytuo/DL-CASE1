@@ -1,5 +1,6 @@
 import logging
 from contextlib import asynccontextmanager
+from functools import partial
 
 import uvicorn
 from fastapi import FastAPI
@@ -7,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from api.api_v1.api import router
 from core.settings import settings
+from middlewares.exception import json_exceptions_wrapper_middleware
 from services.model import ModelService
 
 logger = logging.getLogger("API")
@@ -32,6 +34,7 @@ app.add_middleware(
     allow_methods=settings.CORS_ALLOW_METHODS,
     allow_headers=settings.CORS_ALLOW_HEADERS,
 )
+app.middleware("http")(partial(json_exceptions_wrapper_middleware))
 
 app.include_router(router, prefix="/api/v1")
 
