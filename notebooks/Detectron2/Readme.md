@@ -26,6 +26,10 @@
   - mAP50-90: 0.6992652170274599
 
 
+
+![Train loss](https://github.com/Rytuo/DL-CASE1/blob/main/notebooks/Detectron2/example.bmp?raw=true)
+
+
     
 
     
