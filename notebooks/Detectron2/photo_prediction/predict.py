@@ -6,14 +6,14 @@ import cv2
 # Load config from a config file
 cfg = get_cfg()
 cfg.merge_from_file(model_zoo.get_config_file('COCO-Detection/retinanet_R_101_FPN_3x.yaml'))
-cfg.MODEL.WEIGHTS = 'C:\Archive\Study\Deep_learning\model_0003999.pth'
+cfg.MODEL.WEIGHTS = 'model_0003999.pth'
 cfg.MODEL.DEVICE = 'cpu'
 
 # Create predictor instance
 predictor = DefaultPredictor(cfg)
 
 # Load image
-image = cv2.imread(r"C:\Archive\Study\Deep_learning\00004.jpg")
+image = cv2.imread(r"00004.jpg")
 
 # Perform prediction
 outputs = predictor(image)
