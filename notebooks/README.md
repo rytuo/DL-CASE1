@@ -4,8 +4,8 @@
 
 Обучение:
 - [YOLO](./yolo/train_yolo.ipynb)
-- [Detectron2](todo)
-- [R-FCN](todo)
+- [Detectron2](./Detectron2/Readme.md)
+- [R-FCN](./r-fcn/rfcn-pretrained.ipynb)
 
 ## Метрики моделей
 
