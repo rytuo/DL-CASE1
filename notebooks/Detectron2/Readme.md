@@ -12,7 +12,8 @@
 
    <h2>Train loss</h2>
     ![Alt text](https://github.com/Rytuo/DL-CASE1/raw/main/notebooks/Detectron2/loss_plot.png)  
-![alt text](https://github.com/Rytuo/DL-CASE1/blob/main/notebooks/Detectron2/example.bmp)
+    
+    ![alt text](Rytuo/DL-CASE1/blob/main/notebooks/Detectron2/example.bmp)
   <h2>Метрики</h2>  
   
   - Average Precision: 0.8041451062046028
