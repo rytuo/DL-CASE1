@@ -1,11 +1,12 @@
 # DL-CASE1
 Deep learning in practice case #1
 
-### Setup
+### Application
 
-- [Download archive](todo) and place it in project root
-- [Run yolo.ipynb](./notebooks/yolo/yolo.ipynb)
+[README.md](./app/README.md)
 
-### Utils
 
-- [Preprocess original dataset](./notebooks/preprocess.ipynb)
+### Research
+
+
+[README.md](./notebooks/README.md)
