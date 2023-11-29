@@ -11,7 +11,7 @@
 Чтобы запустить файлы нужно скачать веса по ссылке и закинуть в нужную папку: (https://drive.google.com/open?id=1FWuCebyLSUA0z1T88Jvd34QI3bjtI3VV&usp=drive_fs)  
 
 
-  ![alt text](https://github.com/Rytuo/DL-CASE1/blob/main/notebooks/Detectron2/loss_plot.jpg?raw=true)
+  ![Train loss](https://github.com/Rytuo/DL-CASE1/blob/main/notebooks/Detectron2/loss_plot.jpg?raw=true)
 
 
 
