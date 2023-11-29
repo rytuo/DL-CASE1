@@ -14,12 +14,12 @@
     ![Alt text](https://github.com/Rytuo/DL-CASE1/raw/main/notebooks/Detectron2/loss_plot.png)  
 
   <h2>Метрики</h2>
-      Average Precision: 0.8041451062046028
-      Average Recall: 0.8208241545606096
-      Average F1-score: 0.8011965811965812
-      mAP: 0.6992652170274599
-      mAP50: 0.6992652170274599
-      mAP50-90: 0.6992652170274599
+      - Average Precision: 0.8041451062046028
+      - Average Recall: 0.8208241545606096
+      - Average F1-score: 0.8011965811965812
+      - mAP: 0.6992652170274599
+      - mAP50: 0.6992652170274599
+      - mAP50-90: 0.6992652170274599
 
 
     
