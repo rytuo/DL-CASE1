@@ -11,10 +11,10 @@
 Чтобы запустить файлы нужно скачать веса по ссылке и закинуть в нужную папку: (https://drive.google.com/open?id=1FWuCebyLSUA0z1T88Jvd34QI3bjtI3VV&usp=drive_fs)  
 
    <h2>Train loss</h2>
-<div align="center">
-  <h2>Train loss</h2>
-  ![Название изображения](https://raw.githubusercontent.com/Rytuo/DL-CASE1/main/notebooks/Detectron2/loss_plot.jpg)
-</div>
+    <div align="center">
+      <h2>Train loss</h2>
+      ![Название изображения](https://raw.githubusercontent.com/Rytuo/DL-CASE1/main/notebooks/Detectron2/loss_plot.jpg)
+    </div>
 
 
 
