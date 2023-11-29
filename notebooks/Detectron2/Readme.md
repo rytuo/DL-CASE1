@@ -12,6 +12,9 @@
 
    <h2>Train loss</h2>
    ![alt text](main/notebooks/Detectron2/example.bmp)
+
+
+   
   <h2>Метрики</h2>  
   
   - Average Precision: 0.8041451062046028
