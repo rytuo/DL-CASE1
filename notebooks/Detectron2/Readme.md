@@ -4,3 +4,6 @@
 
 Оба проекта были обучены на датасете Traffic Signs Dataset in YOLO format (https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format)
 
+Текст вот так
+
+Через одну пустую строку
