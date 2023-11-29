@@ -13,7 +13,6 @@
    <h2>Train loss</h2>
     <div align="center">
       <h2>Train loss</h2>
-      ![Название изображения](https://raw.githubusercontent.com/Rytuo/DL-CASE1/main/notebooks/Detectron2/loss_plot.jpg?raw=true)
       ![alt text](https://github.com/Rytuo/DL-CASE1/blob/main/image.jpg?raw=true)
     </div>
 
